@@ -1,4 +1,4 @@
 # jenkins-boot
 
-##Run
-#./gradlew docker dockerRun
+#Run
+./gradlew docker dockerRun
